@@ -1,6 +1,6 @@
 ---
 title: Dokumentation Editieren
-date: 2018-05-03 12:34:27 +0100
+date: 2022-05-30 11:34:27 +0100
 categories: [Jakyll,Documentation]
 tags: [jekyll,doc,code,git]     # TAG names should always be lowercase
 author:
@@ -12,7 +12,7 @@ author:
 Das ist ein Testeintrag der noch weiter bearbeitet wird
 
 
-```git
+```bash
 git add .
 git commit -m "made some changes"
 git push
