@@ -1,0 +1,1 @@
+[ { "title": "Dokumentation Editieren", "url": "/posts/dokumentation-editieren/", "categories": "Jakyll, Documentation", "tags": "jekyll, doc, code, git", "date": "2022-05-30 12:34:27 +0200", "snippet": "Documentation EditierenDas ist ein Testeintrag der noch weiter bearbeitet wirdgit add .git commit -m &quot;made some changes&quot;git pushDanke!" } ]
